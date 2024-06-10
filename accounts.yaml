@@ -1,0 +1,12 @@
+build:
+ version: "3.0"
+ 
+accounts:
+ message: "Welcome to EazyBank accounts related local APIs "
+ contactDetails:
+   name: "A K - Dev Lead"
+   email: "ak@eazybank.com"
+ onCallSupport:
+    - (555) 333-1234
+    - (555) 333-1345
+    
