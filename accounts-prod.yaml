@@ -4,7 +4,7 @@ build:
 accounts:
  message: "Welcome to EazyBank accounts related local APIs "
  contactDetails:
-   name: "A Ku - Prod Manager"
+   name: "A Ku - Production Manager"
    email: "aku@eazybank.com"
  onCallSupport:
     - (555) 333-1234
