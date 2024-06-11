@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
-    name: "Ans K - Product Owner"
+    name: "Ans K - Production Owner"
     email: "ansk@eazybank.com"
   onCallSupport:
     - (617) 121-2356
